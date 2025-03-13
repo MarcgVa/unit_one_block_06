@@ -28,10 +28,6 @@ img {
   padding: 10px 10px;
 }
 
-li {
-  list-style: square;
-}
-
 /* -----  CLASSES ----- */
 .flex-container {
   display: flex;
